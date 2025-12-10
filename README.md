@@ -31,7 +31,8 @@ A simple and customizable chatbot built using **Local LLMs** and **Gradio**, run
 ### 1️⃣ Clone the repo (optional)
 
 ```bash
-!git clone https://github.com/yourusername/llm-gradio-chatbot.git
+!git clone https://github.com/Akshay-rs22/Gradio-LLM.git
+
 2️⃣ Mount Google Drive
 
 from google.colab import drive
